@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>ai script assistant</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Oswald:wght@700&family=Inconsolata&family=Bungee&family=Anton&family=Orbitron&family=Lato:wght@400;700&family=Open+Sans:wght@400;700&family=Roboto:wght@400;700&family=Press+Start+2P&family=Dancing+Script&family=Rock+Salt&family=Pacifico&display=swap"
+        rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Orbitron&family=Dancing+Script&family=Rock+Salt&family=Pacifico&family=Press+Start+2P&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="icon" type="image/png" href="./images/mask.jpg">
+    <link rel="stylesheet" type="text/css" href="./css/main.css">
+    <script src="https://accounts.google.com/gsi/client"></script>
+</head>
+<body data-node-id="body">
+    <img data-node-id=="loading-spinner" class="loading-spinner" src="./images/loading.gif" alt="loading">
+
+<h1>script maker</h1>
+
+    <section data-node-id="templates" id="scriptInput"></section>
+
+    
+    <!-- api-->
+    <script type="text/javascript" src="./js/api/api.js"></script>
+    <script type="text/javascript" src="./js/api/requestUnsplashImage.js"></script>
+    <script type="text/javascript" src="./js/api/requestChatGpt.js"></script>
+
+    <!-- helpers-->
+    <script type="text/javascript" src="./js/helpers/dispatchers.js"></script>
+    <script type="text/javascript" src="./js/helpers/getObjectToHtmlMap.js"></script>
+    <script type="text/javascript" src="./js/helpers/createHtmlElement.js"></script>
+    <script type="text/javascript" src="./js/helpers/renderItems.js"></script>
+
+    <!-- page loaders-->
+    <script type="text/javascript" src="./js/setup/setupLogin.js"></script>
+    <script type="text/javascript" src="./js/setup/setupScriptInput.js"></script>
+    
+    <!-- ws-->
+    <script type="text/javascript" src="./js/ws/start.js"></script>
+
+    <!-- start-->
+    <script type="text/javascript" src="./js/main.js"></script>
+</body>
+</html>

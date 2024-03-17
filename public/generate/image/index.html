@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Fetch Form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <img src="../../images/loading.gif" alt="loading" class="loading-img hidden" />
+    <div class="container">
+        <form id="imageRequestForm" class="form">
+            <input type="text" id="promptInput" class="text-input" placeholder="Enter your prompt" />
+    
+            <div class="radio-group">
+                <label class="radio-container">Crazy
+                    <input type="radio" name="type" value="crazy">
+                    
+                </label>
+    
+                <label class="radio-container">Pattern
+                    <input type="radio" name="type" value="pattern">
+                    
+                </label>
+    
+                <label class="radio-container">Modern
+                    <input type="radio" name="type" value="modern">
+                    
+                </label>
+    
+                <label class="radio-container">Graphical
+                    <input type="radio" name="type" value="graphical">
+                    
+                </label>
+            </div>
+            <button type="submit" class="submit-btn">Generate</button>
+        </form>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,147 @@
+
+[
+  {
+    "lighting_lists": [
+      {
+        "lighting_setup_name": "Dave's Apartment - Afternoon",
+        "lighting_setup_description": "Dave browsing his phone and receives a text message.",
+        "lighting_setup_light_sources": [
+          {
+            "light_source_name": "Natural Light",
+            "light_source_type": "Window",
+            "light_source_intensity": "Soft",
+            "light_source_color": "Warm",
+            "light_source_position": "Coming from the window on the left side of Dave",
+            "light_source_angle": "45 degrees",
+            "light_source_ideas": "Create a sense of coziness and relaxation in the scene."
+          }
+        ],
+        "lighting_setup_ideas": "Keep the lighting soft and warm to create a relaxed atmosphere in Dave's apartment. Use natural light from a window to enhance the feeling of comfort.",
+        "lighting_setup_theme": "Coziness",
+        "lighting_setup_directions": "Use soft, warm lighting from a window to create a relaxed atmosphere in Dave's apartment.",
+        "lighting_setup_gear": "Window",
+        "scene_name": "Dave Apartment - Afternoon"
+      },
+      {
+        "lighting_setup_name": "Dave's Apartment - Evening",
+        "lighting_setup_description": "Dave and Patricia eating dinner together in silence.",
+        "lighting_setup_light_sources": [
+          {
+            "light_source_name": "Table Lamp",
+            "light_source_type": "Practical",
+            "light_source_intensity": "Soft",
+            "light_source_color": "Warm",
+            "light_source_position": "On the dining table",
+            "light_source_angle": "45 degrees",
+            "light_source_ideas": "Create an intimate and cozy atmosphere at the dining table."
+          }
+        ],
+        "lighting_setup_ideas": "Keep the lighting soft and warm to create an intimate and cozy atmosphere at the dining table.",
+        "lighting_setup_theme": "Intimacy",
+        "lighting_setup_directions": "Place a soft, warm table lamp on the dining table to create an intimate and cozy atmosphere.",
+        "lighting_setup_gear": "Table Lamp",
+        "scene_name": "Apartment Evening"
+      },
+      {
+        "lighting_setup_name": "Bedroom - Night",
+        "lighting_setup_description": "Dave and Patricia in bed together.",
+        "lighting_setup_light_sources": [
+          {
+            "light_source_name": "Dim Table Lamp",
+            "light_source_type": "Practical",
+            "light_source_intensity": "Dim",
+            "light_source_color": "Cool",
+            "light_source_position": "On the nightstand",
+            "light_source_angle": "45 degrees",
+            "light_source_ideas": "Create a sense of intimacy and calmness in the bedroom."
+          }
+        ],
+        "lighting_setup_ideas": "Keep the lighting dim and cool to create a sense of intimacy and calmness in the bedroom.",
+        "lighting_setup_theme": "Intimacy",
+        "lighting_setup_directions": "Place a dim and cool table lamp on the nightstand to create a sense of intimacy and calmness in the bedroom.",
+        "lighting_setup_gear": "Dim Table Lamp",
+        "scene_name": "Bed - Night"
+      },
+      {
+        "lighting_setup_name": "Apartment - Morning",
+        "lighting_setup_description": "Dave staring at the rain and using the app on his phone.",
+        "lighting_setup_light_sources": [
+          {
+            "light_source_name": "Soft Backlight",
+            "light_source_type": "Practical",
+            "light_source_intensity": "Soft",
+            "light_source_color": "Cool",
+            "light_source_position": "Behind Dave",
+            "light_source_angle": "45 degrees",
+            "light_source_ideas": "Create a moody and contemplative atmosphere in the apartment."
+          }
+        ],
+        "lighting_setup_ideas": "Use a soft backlight to create a moody and contemplative atmosphere in the apartment.",
+        "lighting_setup_theme": "Contemplation",
+        "lighting_setup_directions": "Place a soft backlight behind Dave to create a moody and contemplative atmosphere in the apartment.",
+        "lighting_setup_gear": "Soft Backlight",
+        "scene_name": "Apartment - Morning"
+      },
+      {
+        "lighting_setup_name": "Apartment - Next Day",
+        "lighting_setup_description": "Dave checks his stocks and Rob visits.",
+        "lighting_setup_light_sources": [
+          {
+            "light_source_name": "Bright Overhead Light",
+            "light_source_type": "Practical",
+            "light_source_intensity": "Bright",
+            "light_source_color": "Neutral",
+            "light_source_position": "Ceiling",
+            "light_source_angle": "Straight down",
+            "light_source_ideas": "Create a bright and mundane atmosphere in the apartment."
+          }
+        ],
+        "lighting_setup_ideas": "Use a bright overhead light to create a bright and mundane atmosphere in the apartment.",
+        "lighting_setup_theme": "Everyday Life",
+        "lighting_setup_directions": "Turn on the bright overhead light to create a bright and mundane atmosphere in the apartment.",
+        "lighting_setup_gear": "Bright Overhead Light",
+        "scene_name": "Apartment - Next Day"
+      },
+      {
+        "lighting_setup_name": "Kitchen",
+        "lighting_setup_description": "Dave and Rob have a conversation in the kitchen.",
+        "lighting_setup_light_sources": [
+          {
+            "light_source_name": "Warm Overhead Light",
+            "light_source_type": "Practical",
+            "light_source_intensity": "Soft",
+            "light_source_color": "Warm",
+            "light_source_position": "Ceiling",
+            "light_source_angle": "Straight down",
+            "light_source_ideas": "Create a warm and cozy atmosphere in the kitchen."
+          }
+        ],
+        "lighting_setup_ideas": "Use a warm overhead light to create a warm and cozy atmosphere in the kitchen.",
+        "lighting_setup_theme": "Coziness",
+        "lighting_setup_directions": "Turn on the warm overhead light to create a warm and cozy atmosphere in the kitchen.",
+        "lighting_setup_gear": "Warm Overhead Light",
+        "scene_name": "Kitchen"
+      },
+      {
+        "lighting_setup_name": "Living Room",
+        "lighting_setup_description": "Dave and Rob play video games in the living room.",
+        "lighting_setup_light_sources": [
+          {
+            "light_source_name": "Colored LED Lights",
+            "light_source_type": "Practical",
+            "light_source_intensity": "Dim",
+            "light_source_color": "Various colors",
+            "light_source_position": "Around the living room",
+            "light_source_angle": "45 degrees",
+            "light_source_ideas": "Create a vibrant and playful atmosphere in the living room."
+          }
+        ],
+        "lighting_setup_ideas": "Use colored LED lights positioned around the living room to create a vibrant and playful atmosphere.",
+        "lighting_setup_theme": "Playfulness",
+        "lighting_setup_directions": "Turn on the colored LED lights and position them around the living room to create a vibrant and playful atmosphere.",
+        "lighting_setup_gear": "Colored LED Lights",
+        "scene_name": "Living Room"
+      }
+    ]
+  }
+]

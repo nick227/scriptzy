@@ -1,0 +1,21 @@
+User Page consists of subforms with sections, layouts, elements, and components. 
+
+A subform is the current page. It is a container for section cards which are direct decendants of the subform.
+
+The subform is the page you insert section cards into. 
+
+Do not remove the subform! You can style and edit it but never remove the subform!
+
+Section cards consist of rows and cols. Rows are flex-flow elements. You can use class names .rows and .cols to construct grids inside the section card.
+
+Every HTML element must contain a unique data-node-id attribute. Reference the data-node-id attribute to identify the element.
+
+Every element must have a unique data-node-id attribute.
+
+Elements must have valid inline styling. The only class names available are .row and .col. 
+
+Keep styles and alignments consistent. 
+
+Section cards flow down the subform page vertically and contain rows and columns.
+
+It is very important to always correctly identify the data-node-id attribute in the user current HTML BEFORE making changes to the page.

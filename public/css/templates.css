@@ -1,0 +1,57 @@
+#templates {
+    margin-top: 40px;
+    padding: 2vh;
+}
+
+.prompt-template {
+    position: relative;
+    padding: 10px 20px;
+    margin: 10px 0 25px 0;
+}
+
+.prompt-template:hover .delete,
+.prompt-template:hover .copy {
+    opacity: 1;
+}
+
+.prompt-template>div {
+    background-color: aliceblue;
+    margin: 5px;
+    padding: 10px 15px;
+}
+
+.wrapper.promptTemplates {
+    content: "";
+    min-height: 50vh;
+}
+
+.wrapper.promptTemplates input {
+    margin: 0 20px;
+}
+
+.description {
+    margin-bottom: 20px;
+}
+
+.copy,
+.delete {
+    position: absolute;
+    top: 7px;
+    cursor: pointer;
+    width: 75px;
+    height: 33px;
+    border-radius: var(--border-radius);
+    z-index: 2332;
+    opacity: 0;
+
+}
+
+.delete {
+    right: 26px;
+    background-color: darkred;
+}
+
+.copy {
+    right: 106px;
+    background-color: gray;
+}

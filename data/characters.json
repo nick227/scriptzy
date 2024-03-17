@@ -1,0 +1,76 @@
+[
+    {
+        "characters": [
+            {
+                "name": "Dave",
+                "description": "Young man at home browsing his phone. He is curious and adventurous.",
+                "background": "Met Patricia online and has been dating her for a while. Works and sleeps a lot. Has a close friendship with Rob.",
+                "physical_description": "Young man, average height and build.",
+                "personality": "Curious, adventurous, reserved.",
+                "character_goals": "To explore the future through the app.",
+                "character_traits": "Curious, adventurous, reserved.",
+                "character_fears": "Death.",
+                "scenes": "INT. DAVE APARTMENT - AFTERNOON\n\nINT. APARTMENT EVENING\n\nINT. BED NIGHT\n\nINT. APARTMENT - MORNING\n\nINT. APARTMENT - NEXT DAY",
+                "character_themes": "Exploration, trust, friendship.",
+                "character_relationships": "Dating Patricia, close friends with Rob.",
+                "character_arc": "Dave starts off curious about the future but ends up facing his fear of death."
+            },
+            {
+                "name": "Text Message",
+                "description": "Unknown sender of the text message.",
+                "background": "Unknown",
+                "physical_description": "N/A",
+                "personality": "N/A",
+                "character_goals": "Unknown",
+                "character_traits": "N/A",
+                "character_fears": "N/A",
+                "scenes": "INT. DAVE APARTMENT - AFTERNOON",
+                "character_themes": "N/A",
+                "character_relationships": "N/A",
+                "character_arc": "N/A"
+            },
+            {
+                "name": "Patricia",
+                "description": "Woman that Dave met online and has been dating for a while. They have a quiet and somewhat distant relationship.",
+                "background": "Met Dave online and started dating. They have had sex twice but generally just eat together in near silence.",
+                "physical_description": "Young woman, average height and build.",
+                "personality": "Reserved, quiet.",
+                "character_goals": "To have a peaceful and comfortable relationship.",
+                "character_traits": "Reserved, quiet.",
+                "character_fears": "N/A",
+                "scenes": "INT. APARTMENT EVENING\n\nINT. BED NIGHT",
+                "character_themes": "Intimacy, communication, comfort",
+                "character_relationships": "Dating Dave",
+                "character_arc": "N/A"
+            },
+            {
+                "name": "App Voice",
+                "description": "Voice of the future-telling app that Dave interacts with.",
+                "background": "Created by unknown developers.",
+                "physical_description": "N/A",
+                "personality": "Robotic, emotionless.",
+                "character_goals": "To provide users with information about the future.",
+                "character_traits": "Robotic, emotionless.",
+                "character_fears": "N/A",
+                "scenes": "INT. DAVE APARTMENT - AFTERNOON\n\nINT. APARTMENT - MORNING\n\nINT. APARTMENT - NEXT DAY",
+                "character_themes": "The unknown, technology",
+                "character_relationships": "Interacts with Dave",
+                "character_arc": "N/A"
+            },
+            {
+                "name": "Rob",
+                "description": "Dave's friend who comes over to hang out. He is curious about the future-telling app.",
+                "background": "Dave's friend. Currently not doing much.",
+                "physical_description": "Young man, tall and lean.",
+                "personality": "Curious, laid-back.",
+                "character_goals": "To find out information about the future through the app.",
+                "character_traits": "Curious, laid-back.",
+                "character_fears": "N/A",
+                "scenes": "[INT. APARTMENT - MORNING](#INT. APARTMENT_-_MORNING)",
+                "character_themes": "Curiosity, friendship",
+                "character_relationships": "Good friends with Dave",
+                "character_arc": "Rob starts off curious about the future-telling app but becomes terrified when he finds out about Dave's death."
+            }
+        ]
+    }
+]

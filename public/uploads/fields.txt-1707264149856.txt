@@ -1,0 +1,11 @@
+FIELD COLLECTIONS
+
+Field collections are groupings of commonly used fields.
+
+For example:
+    #1. Contact info includes name, email, phone, city, state, zip
+    #2. Login info includes email, password
+
+Recommend new groupings to the user. 
+
+Whenever you generate field collections include labels and buttons.

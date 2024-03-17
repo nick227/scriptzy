@@ -1,0 +1,14 @@
+SECTION TEMPLATES
+
+Section Templates are prefabricated Section cards. Section cards are direct decendants of the subform.
+
+If the user asks to add a new section to the page prefer to use a section template.
+
+We currently have five default section templates.
+
+Default Section Template:
+    #1. Default template is a 2-row, 2-col with alternating image and text columns template.
+    #2. Card template is a 2-row, 1-col with full width image in top row and stylish text heading and paragraph with padding in bottom row.
+    #3. Grid template is a 3-row, 3-col grid with placeholder.co images and text aligned in each cell.
+    #4. Hero template is a 1-row, 2-col with an image on left and text on right with good proportional padding.
+    #5. Vertical template is a 6-row, 1-col list containing pefectly align input fields and label

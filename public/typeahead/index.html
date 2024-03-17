@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>typeahead</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap&family=Pacifico"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+        integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+    <!---------------- typeahead  ---------------->
+    <section>
+        <div id="typeahead" style="display: flex;">
+            <span id="userText" contenteditable="true" data-placeholder="Name your creation"></span>
+            <span id="suggestionText"></span>
+            <i class="fas fa-search"></i>
+            <i class="fa-solid fa-rotate-right hidden"></i>
+            <div id="dropdown" class="hidden">
+                <div id="inner">
+                    <ul class="matched-terms"></ul>
+                    <ul class="related-terms">
+                        <li>Related Terms</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!---------------- ideas  ---------------->
+    <section class="hidden section-2 slide-in-right">
+        <div class="form-ideas">
+            <div class="row">
+                <img src="https://picsum.photos/200/200" alt="idea">
+                <div>
+                    <h3></h3>
+                    <ul></ul>
+                </div>
+            </div>
+            <div class="controls">
+                <button class="accent">lets get started</button>
+                <button>show me more</button>
+            </div>
+        </div>
+    </section>
+    <!---------------- tips  ---------------->
+    <div class="text-fader-container form-tips"></div>
+
+    <script src="./js/typeahead-data.js"></script>
+    <script src="./js/IdeaWidget.js"></script>
+    <script src="./js/Grid.js"></script>
+    <script src="./js/Mockup.js"></script>
+    <script src="./js/ImageReloader.js"></script>
+    <script src="./js/submitNewTitle.js"></script>
+    <script src="./js/TextFader.js"></script>
+    <script src="./js/Dropdown.js"></script>
+    <script src="./js/Typeahead.js"></script>
+    <script src="./js/load.js"></script>
+
+</body>
+
+</html>

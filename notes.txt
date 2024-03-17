@@ -1,0 +1,189 @@
+profile
+
+steps
+
+characters
+    bios
+    motivations
+    scenes
+    lines
+    runtime 
+    physical_description
+    age
+    gender
+    personality
+    relationships
+    character_arcs
+    character_goals
+    character_conflicts
+    character_changes
+    character_traits
+    character_backstory
+    character_occupation
+    character_hobbies
+    character_fears
+    character_flaws
+    character_strengths
+    character_secrets
+    character_education
+
+
+scenes
+    scene_number
+    scene_title
+    scene_description
+    scene_location
+    scene_time
+    scene_characters
+    scene_action
+    scene_purpose
+    scene_theme
+    scene_motivation
+    scene_props
+    scene_costumes
+    scene_sound
+    scene_lighting
+    scene_shot_list
+    scene_notes
+
+
+
+plot
+    plot_points
+    plot_theme
+    plot_motivation
+    plot_subplots
+    plot_resolution
+    plot_climax
+
+locations
+    location_name
+    location_description
+    location_time
+    location_characters
+    location_action
+    location_theme
+    location_notes
+    location_ideas
+    location_scene_list
+
+writing style
+        genre
+        tone
+        style
+        pace
+
+themes
+    theme_name
+    theme_description
+    theme_motivation
+    theme_characters
+    theme_action
+    theme_location
+    theme_plot
+    theme_notes
+
+
+budget
+    budget_actors
+    budget_crew
+    budget_locations
+    budget_props
+    budget_costumes
+    budget_sound
+    budget_lighting
+    budget_camera
+    budget_rentals
+    budget_editing
+    budget_marketing
+    budget_distribution
+    budget_festival_fees
+    budget_contingency
+    budget_total
+
+crew
+    crew_director
+    crew_producer
+    crew_writer
+    crew_cinematographer
+    crew_editor
+    crew_sound
+    crew_lighting
+    crew_gaffer
+    crew_grip
+    crew_production_designer
+    crew_art_director
+    crew_costume_designer
+    crew_makeup
+    crew_special_effects
+    crew_stunt_coordinator
+    crew_location_manager
+    crew_craft_services
+    crew_transportation
+    crew_production_coordinator
+    crew_script_supervisor
+
+cast
+    cast_lead
+    cast_supporting
+    cast_extras
+    cast_voice_over
+    cast_stunt
+    cast_animals
+    cast_children
+    cast_notes
+
+equipment
+    equipment_camera
+    equipment_lenses
+    equipment_sound
+    equipment_lighting
+    equipment_grip
+    equipment_dolly
+    equipment_jib
+    equipment_steadicam
+    equipment_crane
+    equipment_stabilizer
+    equipment_studio
+    equipment_editing
+    equipment_rentals
+    equipment_notes
+
+schedule
+    schedule_preproduction
+        prepoduction_storyboards
+        preproduction_location_scouting
+        preproduction_casting
+        preproduction_planning
+        preproduction_brainstorming
+        preproduction_crewing
+        preproduction_procurement
+
+    schedule_production
+        production_shooting_schedule
+        production_actor_call_sheets
+        production_crew_call_sheets
+        production_rentals
+        production_catering
+        production_transportation
+        production_craft_services
+        production_notes
+
+
+
+    schedule_postproduction
+        postproduction_editing_schedule
+        postproduction_sound_schedule
+        postproduction_music_schedule
+        postproduction_color_correction_schedule
+        postproduction_vfx_schedule
+        postproduction_titles_schedule
+        postproduction_distribution_schedule
+        postproduction_festival_schedule
+        postproduction_notes
+
+    schedule_notes
+
+shot_list
+
+scripts

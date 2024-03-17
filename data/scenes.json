@@ -1,0 +1,132 @@
+[
+    {
+        "scenes": [
+            {
+                "scene_name": "INT. DAVE APARTMENT - AFTERNOON",
+                "scene_description": "Dave young man at home browsing his phone gets a text message.",
+                "scene_characters": "Dave",
+                "scene_location": "Dave's apartment",
+                "scene_purpose": "Introduce Dave and the mysterious text message",
+                "scene_action": "Dave is about to delete the message, instead grimaces and presses the link.",
+                "scene_motivation": "Curiosity",
+                "scene_time": "Afternoon",
+                "scene_props": "Phone",
+                "scene_themes": "Curiosity, technology",
+                "scene_ideas": "The text message could lead to a dark secret about Dave's past. Dave could become obsessed with the future-telling app and it starts to control his life.",
+                "scene_colors": "Neutral colors, muted tones"
+            },
+            {
+                "scene_name": "INT. APARTMENT EVENING",
+                "scene_description": "Dave and Patricia eating dinner together.",
+                "scene_characters": "Dave, Patricia",
+                "scene_location": "Dave's apartment",
+                "scene_purpose": "Show Dave and Patricia's relationship dynamics",
+                "scene_action": "The only sound is clinking of silverware.",
+                "scene_motivation": "Hungry",
+                "scene_time": "Evening",
+                "scene_props": "Silverware, dinner table",
+                "scene_themes": "Silence, communication issues",
+                "scene_ideas": "Their dinner conversation could become heated and they have a big argument. They could open up to each other and share their insecurities.",
+                "scene_colors": "Warm colors"
+            },
+            {
+                "scene_name": "INT. BED NIGHT",
+                "scene_description": "Dave face to face in bed with Patricia.",
+                "scene_characters": "Dave, Patricia",
+                "scene_location": "Bedroom",
+                "scene_purpose": "Show physical intimacy between Dave and Patricia",
+                "scene_action": "Even their sex is nearly silent.",
+                "scene_motivation": "Intimacy",
+                "scene_time": "Night",
+                "scene_props": "Bed",
+                "scene_themes": "Emotional distance",
+                "scene_ideas": "Dave and Patricia could have a deep conversation after sex. They could explore their lack of emotional connection and try to work on it.",
+                "scene_colors": "Dark colors"
+            },
+            {
+                "scene_name": "INT. APARTMENT - MORNING",
+                "scene_description": "Dave asks the future-telling app a question.",
+                "scene_characters": "Dave",
+                "scene_location": "Dave's apartment",
+                "scene_purpose": "Further explore the future-telling app",
+                "scene_action": "Dave asks who he will eventually marry.",
+                "scene_motivation": "Curiosity",
+                "scene_time": "Morning",
+                "scene_props": "Phone, tea",
+                "scene_themes": "Uncertainty, disappointment",
+                "scene_ideas": "Dave could become obsessed with finding out why he will never get married. He could start questioning his own self-worth and search for answers.",
+                "scene_colors": "Neutral colors, calm tones"
+            },
+            {
+                "scene_name": "INT. APARTMENT - NEXT DAY",
+                "scene_description": "Dave checks his stocks and Rob comes over.",
+                "scene_characters": "Dave, Rob",
+                "scene_location": "Dave's apartment",
+                "scene_purpose": "Explore the consequences of using the future-telling app",
+                "scene_action": "Dave and Rob discuss the app and its predictions.",
+                "scene_motivation": "Curiosity",
+                "scene_time": "Next day",
+                "scene_props": "Phone, stocks",
+                "scene_themes": "Uncertainty, friendship",
+                "scene_ideas": "Rob could have a prediction from the app that makes him question their friendship. Dave and Rob could try to outsmart the app and prove it wrong.",
+                "scene_colors": "Neutral colors, casual tones"
+            },
+            {
+                "scene_name": "INT. KITCHEN",
+                "scene_description": "Dave and Rob continue their conversation in the kitchen.",
+                "scene_characters": "Dave, Rob",
+                "scene_location": "Kitchen",
+                "scene_purpose": "Casual conversation and discovery",
+                "scene_action": "They discuss random topics and make observations.",
+                "scene_motivation": "Casual conversation",
+                "scene_time": "Continuation from previous scene",
+                "scene_props": "Popcorn, wine",
+                "scene_themes": "Friendship, random events",
+                "scene_ideas": "Dave and Rob could uncover a hidden connection between their past events and the predictions of the app. They could start investigating and trying to prevent their predicted deaths.",
+                "scene_colors": "Warm colors, cozy atmosphere"
+            },
+            {
+                "scene_name": "INT. LIVING ROOM",
+                "scene_description": "Dave and Rob relax in the living room.",
+                "scene_characters": "Dave, Rob",
+                "scene_location": "Living room",
+                "scene_purpose": "Continuation of casual conversation",
+                "scene_action": "They play video games and discuss their past experiences.",
+                "scene_motivation": "Relaxation",
+                "scene_time": "Continuation from previous scene",
+                "scene_props": "Video game console, beer",
+                "scene_themes": "Friendship, nostalgia",
+                "scene_ideas": "While playing the video game, Dave and Rob discover a hidden clue that could lead them to the source of the future-telling app.",
+                "scene_colors": "Vibrant colors, energetic atmosphere"
+            },
+            {
+                "scene_name": "INT. KITCHEN",
+                "scene_description": "Dave and Rob contemplate the future.",
+                "scene_characters": "Dave, Rob",
+                "scene_location": "Kitchen",
+                "scene_purpose": "Concluding conversation and realization",
+                "scene_action": "They discuss the implications of the app's predictions and laugh it off.",
+                "scene_motivation": "Reflection",
+                "scene_time": "Continuation from previous scene",
+                "scene_props": "Popcorn, joint",
+                "scene_themes": "Fate, conspiracy",
+                "scene_ideas": "Dave and Rob decide to confront the unknown sender of the text message and unravel the mystery behind the future-telling app. They could also discover that the app is part of a larger scheme and try to expose it.",
+                "scene_colors": "Warm colors, relaxed atmosphere"
+            },
+            {
+                "scene_name": "INT. KITCHEN",
+                "scene_description": "An accidental gas leak endangers Dave and Rob.",
+                "scene_characters": "Dave, Rob",
+                "scene_location": "Kitchen",
+                "scene_purpose": "Create suspense and danger",
+                "scene_action": "Natural gas has been leaking into the poorly ventilated apartment.",
+                "scene_motivation": "Accident",
+                "scene_time": "Continuation from previous scene",
+                "scene_props": "Gas leak",
+                "scene_themes": "Survival, coincidence",
+                "scene_ideas": "Dave and Rob could find themselves trapped and have to rely on their past experiences and knowledge to escape the gas-filled apartment. They could uncover a clue that points to the true nature of the future-telling app.",
+                "scene_colors": "Tense colors, dim lighting"
+            }
+        ]
+    }
+]

@@ -1,0 +1,94 @@
+/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: #f5f5f5;
+    color: #333;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-size: 16px;
+    padding: 20px;
+}
+
+.container {
+    width: 520px;
+    margin-bottom: 20px;;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.text-input {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 1rem;
+    color: #333;
+}
+
+.text-input::placeholder {
+    color: #888;
+}
+
+.submit-btn {
+    padding: 10px;
+    border: none;
+    background-color: #0a0a0b;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+}
+.submit-btn:hover {
+    background-color: #0056b3;
+}
+.submit-btn:active {
+    background-color: greenyellow;
+}
+
+.radio-group {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 20px;
+    flex-wrap:nowrap;
+}
+label{
+    white-space: nowrap;
+    text-align: left;
+    width: 25%;;
+}
+
+.radio-container {
+    display: block;
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 1rem;
+    user-select: none;
+}
+
+img {
+    max-width: 256px;
+    margin: 0 10px 10px 0;
+}
+
+.loading-img{
+    float: right;
+    margin: 20px;
+}
+
+.hidden{
+    display: none;
+}
